@@ -9,6 +9,17 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/img\/Planeet.png": {
+		"ft": 32768,
+		"iS": 222065,
+		"oA": 0,
+		"oAP": "\/img\/Planeet.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -43,6 +54,16 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/style\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style\/style-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/style\/style.scss": {
 		"aP": 0,
