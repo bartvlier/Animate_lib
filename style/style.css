@@ -1,1 +1,1 @@
-h1{color:aqua}
+body{background-color:aqua}.rotateRight{height:30vw;transform-origin:50% 50%;animation:100s rotateRight infinite linear}@keyframes rotateRight{100%{transform:rotate(360deg)}}
