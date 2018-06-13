@@ -9,33 +9,56 @@
 	],
 "creatorBuild": "26680",
 "files": {
-	"\/img\/Planeet.png": {
+	"\/demo\/img\/Planeet.png": {
 		"ft": 32768,
 		"iS": 222065,
 		"oA": 0,
-		"oAP": "\/img\/Planeet.png",
+		"oAP": "\/demo\/img\/Planeet.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/index.html": {
+	"\/demo\/index.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/index.html",
-		"oF": 1
+		"oA": 0,
+		"oAP": "\/demo\/index.html",
+		"oF": 0
 		},
-	"\/js\/script.js": {
+	"\/demo\/js\/script.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/js\/script-min.js",
+		"oAP": "\/demo\/js\/script-min.js",
 		"oF": 1,
 		"sC": 0,
 		"tS": 0
+		},
+	"\/demo\/style\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/demo\/style\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/demo\/style\/style.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/demo\/style\/style.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
 		},
 	"\/README.md": {
 		"cB": 0,
@@ -54,29 +77,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"\/style\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/style\/style-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/style\/style.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/style\/style.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
 		}
 	},
 "hooks": [
